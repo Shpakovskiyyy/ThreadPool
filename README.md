@@ -41,4 +41,4 @@ target_link_libraries(YourTarget PRIVATE tp::ThreadPool)
 
 ## License
 
-MIT
+GPL
